@@ -11,10 +11,10 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 # Run in development
 
-1 Have Nest CLI installed
+1. Have Nest CLI installed
 
 ```
 npm i -g @nestjs/cli
@@ -26,7 +26,7 @@ npm i -g @nestjs/cli
 yarn install
 ```
 
-4. Raise the database
+4. Up the database
 
 ```
 docker-compose up -d
@@ -49,7 +49,8 @@ http://localhost:3000/api/v2/seed
 ## Stack used
 
 * MongoDB
-  *Nest
+* Nest
+* Docker
 
 ## Expressions of Gratitude 🎁
 * I am very grateful for everything I learned in the course [Nest: Desarrollo backend escalable con Node](https://www.udemy.com/course/nest-framework/) made by [Fernando Herrera](https://fernando-herrera.com/)

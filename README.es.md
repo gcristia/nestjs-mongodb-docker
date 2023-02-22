@@ -11,6 +11,7 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 # Ejecutar en desarrollo
 
 1. Tener Nest CLI instalado
@@ -46,9 +47,9 @@ http://localhost:3000/api/v2/seed
 ```
 
 ## Stack usado
-
 * MongoDB
 * Nest
+* Docker
 
 ## Expresiones de Gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el curso [Nest: Desarrollo backend escalable con Node](https://www.udemy.com/course/nest-framework/) realizado por [Fernando Herrera](https://fernando-herrera.com/)
