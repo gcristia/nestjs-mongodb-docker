@@ -46,9 +46,9 @@ http://localhost:3000/api/v2/seed
 ```
 
 ## Stack usado
-
 * MongoDB
 * Nest
+* Docker
 
 ## Expresiones de Gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el curso [Nest: Desarrollo backend escalable con Node](https://www.udemy.com/course/nest-framework/) realizado por [Fernando Herrera](https://fernando-herrera.com/)
