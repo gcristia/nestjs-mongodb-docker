@@ -11,47 +11,46 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# Ejecutar en desarrollo
 
-# Run in development
-
-1 Have Nest CLI installed
+1. Tener Nest CLI instalado
 
 ```
 npm i -g @nestjs/cli
 ```
-2. Clone the repository
-3. Run
+2. Clonar el repositorio
+3. Ejecutar
 
 ```
 yarn install
 ```
 
-4. Raise the database
+4. Levantar la base de datos
 
 ```
 docker-compose up -d
 ```
 
-5. Clone the ```.env.template``` file and rename it to ```.env```
-6. Populate the environment variables defined in the ```.env``` file
-7. Run the app in dev:
+5. Clonar el archivo```.env.template``` y renombrarlo a ```.env```
+6. Llenar las variables de entorno definidas en el archivo ```.env```
+7. Ejecutar la aplicación en dev:
 
 ```
 yarn start:dev
 ```
 
-8. Rebuild the database
+8. Reconstruir la base de datos
 
-```
+``` 
 http://localhost:3000/api/v2/seed
 ```
 
-## Stack used
+## Stack usado
 
 * MongoDB
-  *Nest
+* Nest
 
-## Expressions of Gratitude 🎁
-* I am very grateful for everything I learned in the course [Nest: Desarrollo backend escalable con Node](https://www.udemy.com/course/nest-framework/) made by [Fernando Herrera](https://fernando-herrera.com/)
+## Expresiones de Gratitud 🎁
+* Estoy muy agradecido por todo lo que aprendí en el curso [Nest: Desarrollo backend escalable con Node](https://www.udemy.com/course/nest-framework/) realizado por [Fernando Herrera](https:// fernando-herrera.com/)
 ---
 ⌨️with ❤️by [gcristia](https://github.com/gcristia) 😊 
